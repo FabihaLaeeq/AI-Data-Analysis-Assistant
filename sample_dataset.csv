@@ -1,0 +1,11 @@
+Date,Product,Category,City,Customer_Age,Quantity,Sales
+2026-01-01,Laptop,Electronics,Karachi,25,2,200000
+2026-01-02,Phone,Electronics,Lahore,31,3,150000
+2026-01-03,Chair,Furniture,Karachi,42,5,75000
+2026-01-04,Laptop,Electronics,Islamabad,29,1,100000
+2026-01-05,Table,Furniture,Lahore,35,2,60000
+2026-01-06,Phone,Electronics,Karachi,27,4,200000
+2026-01-07,Chair,Furniture,Islamabad,45,3,45000
+2026-01-08,Laptop,Electronics,Lahore,33,2,200000
+2026-01-09,Table,Furniture,Karachi,38,4,120000
+2026-01-10,Phone,Electronics,Islamabad,24,2,100000
